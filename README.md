@@ -7,7 +7,7 @@ In the dynamic world of online gaming, Counter-Strike: Global Offensive (CSGO) r
   <tr>
     <th>✅ Product</th>
     <th>Promo Code</th>
-    <th>Exculise Bonus</th>
+    <th>Exclusive Bonus</th>
   </tr>
   <tr>
     <td>➡️ Cases.GG Affiliate Code</td>
